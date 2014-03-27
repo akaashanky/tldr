@@ -1,0 +1,63 @@
+ .container-full { 
+ 	margin: 0 auto; 
+ 	width: 100%; 
+ }
+
+ .large-top-margin {
+ 	margin-top: 100px;
+ }
+
+ .full-width {
+ 	display: block;
+ 	width: 100%;
+ }
+
+ .btn {
+ 	font-size: 15px;
+ 	font-style: bold;
+ }
+
+ .medium-top-margin {
+ 	margin-top: 30px;
+ }
+
+ .medium-bottom-margin {
+ 	margin-bottom: 30px;
+ }
+
+ .zero-top-margin {
+ 	margin-top: 0px;
+ }
+
+ .minus-top-margin {
+ 	margin-top: -20px;
+ }
+
+ .zero-bottom-margin {
+ 	margin-bottom: 0px;
+ }
+
+ .title {
+ 	font-size: 120px;
+ 	font-weight: 600;
+ 	font-style: bold;
+ 	letter-spacing: -4px;
+ }
+
+ .section-header {
+ 	font-weight: 200;
+ 	font-size: 50px;
+	line-height: 1.2em;
+ }
+
+ .summary-heading {
+ 	font-size: 40px;
+ 	 	font-weight: 100;
+
+ }
+
+ .summary-text {
+ 	font-size: 25px;
+ 	font-weight: 100;
+	line-height: 1.2em;
+ }

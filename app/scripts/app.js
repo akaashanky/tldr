@@ -8,6 +8,10 @@ angular.module('tldrApp', [
 ])
   .config(function ($routeProvider, $locationProvider) {
     $routeProvider
+      .when('/yo', {
+        templateUrl: 'partials/yo',
+        controller: 'YoCtrl'
+      })
       .when('/', {
         templateUrl: 'partials/main',
         controller: 'MainCtrl'

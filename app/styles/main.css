@@ -1,5 +1,7 @@
 /* Space out content a bit */
 body {
+  background-color: #000;
+  color:#fff;
   padding-top: 20px;
   padding-bottom: 20px;
 }
