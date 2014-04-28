@@ -14,6 +14,7 @@ angular.module('tldrApp')
 
     $scope.submitForm = function(isValid) {
     		$scope.submitted=true;
+    		$scope.summaryVisible=false;
 			// check to make sure the form is completely valid
 			if (isValid) {
 				var formData={};
